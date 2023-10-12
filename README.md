@@ -18,4 +18,5 @@ that explains its license.
 
 | Addons                                                                     | Description                                                                               | Installation         | Dependencies            |
 |----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------|-------------------------|
+| [revolut_connector](revolut_connector)                                    | A Revolut connector that allows you to mass import transactions into bank statements<br/> | Apps library         | account<br/>jwt_manager |
 
